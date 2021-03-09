@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615212965 source:f:\my documents\git projects\c projects\remove empty lines from a file\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
